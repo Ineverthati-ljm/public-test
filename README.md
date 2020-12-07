@@ -1,2 +1,1 @@
-user=123
-name=7899
+http://localhost:8080/verifivation
